@@ -1,0 +1,18 @@
+========================================
+📊 PROJECT STAGE 7: FINAL INSIGHTS REPORT
+========================================
+✅ Total Records Ingested:   6390
+🚨 High-Risk Posts Flagged:  2710
+📈 Scam Prevalence:          42.41%
+
+🌍 GEOGRAPHIC RISK BREAKDOWN:
+📍 CAMBODIA   : 410 occurrences
+📍 POIPET     : 462 occurrences
+📍 DUBAI      : 45 occurrences
+📍 UAE        : 179 occurrences
+📍 ARMENIA    : 1760 occurrences
+
+💡 KEY INSIGHT:
+The model confirms a high correlation between 'No Experience' 
+requirements and locations like Poipet and Dubai.
+========================================
